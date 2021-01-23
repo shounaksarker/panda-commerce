@@ -5,6 +5,9 @@
     background-color: #FCE6E8;
     border-radius: 10px;
 }
+
+/* Slider */
+
 .carousel-item{
     padding: 20px 40px;
 }
@@ -17,6 +20,9 @@
     border-radius: 8px;
     cursor: pointer;
 }
+
+/*small card*/
+
 .cat1{
     background-color: orange;
     padding: 10px 30px;
@@ -32,6 +38,9 @@
     padding: 10px 30px;
     border-radius: 15px;
 }
+
+/* shoe and bagpack */
+
 .catagory h1{
     color: white;
 }
@@ -42,6 +51,9 @@
     border: none;
     box-shadow: 5px 5px 10px lightgray;
 }
+
+/* contact */
+
 #contactus{
     height: 300px;
 }
