@@ -1,6 +1,6 @@
 ### Panda Commerce
 ---
-**Live Site : [Doctor's Portal](https://shounaksarker.github.io/panda-commerce)**
+**Live Site : [Panda Commerce](https://shounaksarker.github.io/panda-commerce)**
 
 
 #### Overview:
